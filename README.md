@@ -10,9 +10,14 @@ Buatlah sebuah website Portfolio masing-masing, menggunakan ReactJS (beserta fit
 
 ### Preview Program Output
 #### Dark Mode
+![Books](https://github.com/rrdentin/portfolio-task-6/blob/main/assets/home.png)
+![Books](https://github.com/rrdentin/portfolio-task-6/blob/main/assets/skills.png)
+![Books](https://github.com/rrdentin/portfolio-task-6/blob/main/assets/projects.png)
+![Books](https://github.com/rrdentin/portfolio-task-6/blob/main/assets/contact.png)
 
-#### Light Mode (/login)
+#### Light Mode (example)
+![Books]([https://github.com/rrdentin/Productzilla/blob/main/%5BTask%204%5D%20Express%20JS%2C%20MongoDB%2C%20Swagger/assets/books.png](https://github.com/rrdentin/portfolio-task-6/blob/main/assets/light-mode.png))
 
+#### Bahasa Indonesia Mode (example
 
-#### Bahasa Indonesia Mode
-
+![Books](https://github.com/rrdentin/portfolio-task-6/blob/main/assets/indo-mode.png)
