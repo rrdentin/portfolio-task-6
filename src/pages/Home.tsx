@@ -113,7 +113,7 @@ export default function Home() {
             {isLoading && <Loader />}
             <CSSTransition in={inProp} timeout={500} classNames="slide">
               <img
-                src="public/d/NormiessSilent.gif"
+                src="d/NormiessSilent.gif"
                 alt="Rr. Denti N"
                 className="w-full h-auto"
                 onLoad={imageLoaded}
