@@ -20,6 +20,8 @@ export default function Footer({ theme }: NavbarProps) {
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 hover:text-blue-400"
+            aria-label="LinkedIn"
+
           >
             <i className="fa fa-linkedin"></i>
           </a>
@@ -28,6 +30,8 @@ export default function Footer({ theme }: NavbarProps) {
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-gray-300"
+            aria-label="GitHub"
+
           >
             <i className="fa fa-github"></i>
           </a>
@@ -36,6 +40,8 @@ export default function Footer({ theme }: NavbarProps) {
             target="_blank"
             rel="noopener noreferrer"
             className="text-pink-500 hover:text-pink-400"
+            aria-label="Instagram"
+
           >
             <i className="fa fa-instagram"></i>
           </a>

@@ -39,7 +39,7 @@ function App() {
       <LanguageContext.Provider value={value}>
         <SectionRefContext.Provider value={skillsSectionRef}>
           <Navbar theme={theme} toggleTheme={toggleTheme} />
-          <Routes>
+          <Routes >
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/contact" element={<Contact />} />

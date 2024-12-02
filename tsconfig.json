@@ -8,7 +8,7 @@
     "moduleResolution": "node",
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "typeRoots": ["./src/types", "./node_modules/@types", "node_modules/@testing-library"],
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "paths": {
@@ -17,8 +17,8 @@
   },
   "include": [
     "src/**/*.ts",
-    "src/**/*.tsx, ../components/",
-    "src/common/constants/SkillCategories.tsx"
+    "src/**/*.tsx"
   ],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
+  "references": []
 }
